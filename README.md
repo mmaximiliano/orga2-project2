@@ -1,2 +1,2 @@
 # orga2-project2
-En este trabajo pra ́ctico consiste en implementar filtros gr ́aficos utilizando el modelo de procesamiento SIMD. 
+En este trabajo practico consiste en implementar filtros graficos utilizando el modelo de procesamiento SIMD. 
