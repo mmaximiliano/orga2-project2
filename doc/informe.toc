@@ -1,5 +1,0 @@
-\contentsline {section}{\numberline {1}Objetivos generales}{3}
-\contentsline {section}{\numberline {2}Contexto}{3}
-\contentsline {paragraph}{\textbf {Titulo del parrafo} }{3}
-\contentsline {section}{\numberline {3}Enunciado y solucion}{3}
-\contentsline {section}{\numberline {4}Conclusiones y trabajo futuro}{3}
